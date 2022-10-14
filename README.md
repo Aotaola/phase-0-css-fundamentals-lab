@@ -7,7 +7,7 @@
 
 ## Introduction
 
-In this lab, we will be adding style to our `index.html` page by linking an
+In t his lab, we will be adding style to our `index.html` page by linking an
 external CSS file. If you open `index.html` in the browser, you will see basic
 HTML that has been provided. The website emulates a basic Real Estate website
 (the links on it have been disabled, we will be working with only the basic
